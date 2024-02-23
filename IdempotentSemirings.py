@@ -1,4 +1,4 @@
-[1,
+IdSrng10 = [#indecomposable integral idempotent semirings up to size 10
  
  Model(cardinality = 2, index = 0,
  operations = {
